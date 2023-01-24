@@ -1,0 +1,3 @@
+[submodule "dockerfiles-example"]
+	path = dockerfiles-example
+	url = https://github.com/bbachi/dockerfile-examples.git
